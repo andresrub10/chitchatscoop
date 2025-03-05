@@ -4,7 +4,9 @@
 ChitChatScoop is a Next.js application that uses ChatGPT (via OpenAI’s API) to transcribe and summarize both Twitch chat messages and live audio from a stream, providing viewers and streamers with a concise, real-time “scoop” on what’s happening.
 
 ## Community-Powered Development
-ChitChatScoop is a community-driven project where contributors play a vital role in shaping its future. Code reviews will be conducted live on stream at [Twitch](https://www.twitch.tv/andresrub10) and recorded for [YouTube](https://www.youtube.com/@andresrub10). Additionally, 50% of the revenue generated from this project will be shared among contributors as a way to recognize and reward their efforts. 
+ChitChatScoop is a community-driven project where contributors play a vital role in shaping its future. Code reviews will be conducted live on stream at [Twitch](https://www.twitch.tv/andresrub10) and recorded for [YouTube](https://www.youtube.com/@andresrub10). Additionally, 50% of the revenue generated from this project will be shared among contributors as a way to recognize and reward their efforts. The distribution critirea is to be defined. 
+
+Fell free to go to the project page [here](https://github.com/users/andresrub10/projects/1) and grab any issue you would like.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
